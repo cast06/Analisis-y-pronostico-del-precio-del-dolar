@@ -1,4 +1,4 @@
-# 📈 Análisis y pronóstico del precio del dólar mediante modelos de series de tiempo
+# Análisis y pronóstico del precio del dólar mediante modelos de series de tiempo
 
 ## Descripción general
 
