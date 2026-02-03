@@ -1,4 +1,23 @@
 # Análisis y pronóstico del precio del dólar mediante modelos de series de tiempo
+## Índice
+
+- [Descripción general](#descripción-general)
+- [Objetivos](#objetivos)
+- [Dataset](#dataset)
+- [Metodología y modelos implementados](#metodología-y-modelos-implementados)
+  - [Preprocesamiento y análisis exploratorio (EDA)](#1-preprocesamiento-y-análisis-exploratorio-eda)
+  - [Segmento seleccionado para modelado: año 2015](#2-segmento-seleccionado-para-modelado-año-2015)
+  - [Transformaciones](#3-transformaciones)
+  - [Modelos de series de tiempo](#4-modelos-de-series-de-tiempo)
+    - [Modelo ARMA](#41-modelo-arma21)
+    - [Modelo ARIMA](#42-modelo-arima211)
+    - [Modelo SARIMA](#43-modelo-sarima111015)
+- [Resultados principales](#resultados-principales)
+- [Estructura del repositorio](#estructura-del-repositorio)
+- [Requisitos](#requisitos)
+- [Notebook](#notebook)
+- [Autores](#autores)
+
 
 ## Descripción general
 
